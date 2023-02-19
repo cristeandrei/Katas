@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32912.340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnusualSpending", "UnusualSpending\UnusualSpending.csproj", "{2B4702DE-DADC-47BC-BD59-E169F8684878}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnusualSpendingTest", "UnusualSpendingTest\UnusualSpendingTest.csproj", "{6F451189-F7D1-4561-8C53-671A158B9808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B4702DE-DADC-47BC-BD59-E169F8684878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4702DE-DADC-47BC-BD59-E169F8684878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4702DE-DADC-47BC-BD59-E169F8684878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4702DE-DADC-47BC-BD59-E169F8684878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F451189-F7D1-4561-8C53-671A158B9808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F451189-F7D1-4561-8C53-671A158B9808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F451189-F7D1-4561-8C53-671A158B9808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F451189-F7D1-4561-8C53-671A158B9808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C34C07E-3830-4F54-9676-0BC459ECFED1}
+	EndGlobalSection
+EndGlobal
